@@ -26,4 +26,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/isaacChavezzz/p12-navegadorpag-6I/assets/143744084/e8d7243d-48d9-4fa0-aba0-0ffbfcc517d6)
 
-- 
+- Nuevo resultado
+- ![image](https://github.com/isaacChavezzz/p12-navegadorpag-6I/assets/143744084/8417739c-9315-487c-9b4c-483073142654)
+- ![image](https://github.com/isaacChavezzz/p12-navegadorpag-6I/assets/143744084/716a887e-d498-4c83-895d-c6740bce3e71)
+
+
